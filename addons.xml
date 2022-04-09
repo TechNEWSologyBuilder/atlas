@@ -45,6 +45,11 @@
 		<info compressed="false">https://github.com/TechNEWSologyBuilder/atlas/addons.xml</info>
 		<checksum>https://github.com/TechNEWSologyBuilder/atlas/addons.xml.md5</checksum>
 		<datadir zip="true">https://github.com/TechNEWSologyBuilder/atlas/</datadir>
+		<dir>
+			<info compressed="false">https://gknwizard.eu/repo/Builds/TechNEWsology/_atlas_repo/addons.xml</info>
+			<checksum>https://gknwizard.eu/repo/Builds/TechNEWsology/_atlas_repo/addons.xml.md5</checksum>
+			<datadir zip="true">https://gknwizard.eu/repo/Builds/TechNEWsology/_atlas_repo/</datadir>
+		</dir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Atlas Repository</summary>
