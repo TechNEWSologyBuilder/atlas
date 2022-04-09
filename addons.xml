@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addons>
+<addon id="plugin.video.atlas" name="Atlas(by CartoonsGR)" version="19.0.23" provider-name="Bugatsinho-NP-(Modified by TechNEWSology)">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.six" />
+    <import addon="script.module.resolveurl" version="5.0.00"/>
+    <import addon="script.module.pyxbmct" version="1.2.0"/>
+    <import addon="script.module.requests" version="2.19.1"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="el">ΑΤΛΑΣ ΕΛΛΗΝΙΚΟ ΠΡΟΣΘΕΤΟ</summary>
+    <description lang="el">ΤΑΙΝΕΣ ΚΑΙ ΣΕΙΡΕΣ ΜΕ ΥΠOΤΙΤΛΟΥΣ-ΕΛΛΗΝΙΚΕΣ-ΠΑΙΔΙΚΑ-ΜΟΥΣΙΚΗ.O Άτλας ήταν η μυθική μορφή που κρατούσε στους ώμους του το θόλο του Ουρανού πάνω από τη Γη.</description>
+    <disclaimer lang="el">Ο δημιουργός δεν φιλοξενεί ή διανέμει οποιαδήποτε από το περιεχόμενο που εμφανίζεται από αυτό το πρόσθετο και δεν έχει οποιαδήποτε σχέση με την ιστοσελίδα και τους ιδιοκτήτες αυτής.
+    </disclaimer>
+    <summary lang="en">ΑΤΛΑΣ ΕΛΛΗΝΙΚΟ ΠΡΟΣΘΕΤΟ</summary>
+    <description lang="en">ΤΑΙΝΕΣ ΚΑΙ ΣΕΙΡΕΣ ΜΕ ΥΠOΤΙΤΛΟΥΣ-ΕΛΛΗΝΙΚΕΣ-ΠΑΙΔΙΚΑ-ΜΟΥΣΙΚΗ.O Άτλας ήταν η μυθική μορφή που κρατούσε στους ώμους του το θόλο του Ουρανού πάνω από τη Γη.</description>
+    <disclaimer lang="en">Ο δημιουργός δεν φιλοξενεί ή διανέμει οποιαδήποτε από το περιεχόμενο που εμφανίζεται από αυτό το πρόσθετο και δεν έχει οποιαδήποτε σχέση με την ιστοσελίδα και τους ιδιοκτήτες αυτής.
+    </disclaimer>
+    <language>en el</language>
+    <license>GNU GPL, version 2</license>
+    <news>[B]ΑΤΛΑΣ Kodi Matrix 19[/B]
+    - [B]v19.0.23[/B] 04/04/2022
+       Διορθώσεις κώδικα - Gamato
+    - [B]v19.0.22[/B] 02/04/2022
+       Διορθώσεις κώδικα - Coolmoviezone
+    - [B]v19.0.21[/B] 01/04/2022
+       Διορθώσεις κώδικα - Προσθήκη Coolmoviezone
+    - [B]v19.0.20[/B] 30/03/2022
+       Διορθώσεις κώδικα - (myvideolinks)
+    - [B]v19.0.19[/B] 28/03/2022</news>
+    <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+    </assets>
+  </extension>
+</addon>
+
+<addon id="repository.atlas" name="Atlas Repository" version="0.0.1" provider-name="NP-Bugatsinho -(Modified by TechNEWSology)">
+	<extension point="xbmc.addon.repository" name="Atlas Repository">
+		<info compressed="false">https://github.com/TechNEWSologyBuilder/atlas/addons.xml</info>
+		<checksum>https://github.com/TechNEWSologyBuilder/atlas/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/TechNEWSologyBuilder/atlas/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Atlas Repository</summary>
+		<description>Atlas Repo</description>
+		<platform>all</platform>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+		</assets>
+	</extension>
+</addon>
+</addons>
