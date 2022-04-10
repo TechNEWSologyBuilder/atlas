@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.atlas" name="Atlas(by CartoonsGR)" version="19.0.23" provider-name="Bugatsinho-NP-(Modified by TechNEWSology)">
+<addon id="plugin.video.atlas" name="Atlas(by CartoonsGR)" version="19.0.24" provider-name="Bugatsinho-NP-(Modified by TechNEWSology)">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.six" />
@@ -24,6 +24,9 @@
     <language>en el</language>
     <license>GNU GPL, version 2</license>
     <news>[B]ΑΤΛΑΣ Kodi Matrix 19[/B]
+    - [B]v19.0.24[/B] 10/04/2022
+       Διορθώσεις κώδικα - (Trailer)Gamato
+       Προσθήκη Ξένων Σειρών - Tainiomania
     - [B]v19.0.23[/B] 04/04/2022
        Διορθώσεις κώδικα - Gamato
     - [B]v19.0.22[/B] 02/04/2022
@@ -42,9 +45,9 @@
 
 <addon id="repository.atlas" name="Atlas Repository" version="0.0.1" provider-name="NP-Bugatsinho -(Modified by TechNEWSology)">
 	<extension point="xbmc.addon.repository" name="Atlas Repository">
-		<info compressed="false">https://github.com/TechNEWSologyBuilder/atlas/addons.xml</info>
-		<checksum>https://github.com/TechNEWSologyBuilder/atlas/addons.xml.md5</checksum>
-		<datadir zip="true">https://github.com/TechNEWSologyBuilder/atlas/</datadir>
+		<info compressed="false">https://raw.githubusercontent.com/TechNEWSologyBuilder/atlas/main/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/TechNEWSologyBuilder/atlas/main/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/TechNEWSologyBuilder/atlas/main/</datadir>
 		<dir>
 			<info compressed="false">https://gknwizard.eu/repo/Builds/TechNEWsology/_atlas_repo/addons.xml</info>
 			<checksum>https://gknwizard.eu/repo/Builds/TechNEWsology/_atlas_repo/addons.xml.md5</checksum>
