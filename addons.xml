@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.atlas" name="Atlas" version="21.41" provider-name="TechNEWSology">
+<addon id="plugin.video.atlas" name="Atlas" version="21.42" provider-name="TechNEWSology">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.six" />
@@ -102,7 +102,7 @@
        Διορθώσεις κώδικα - Xrysoi
        Διορθώσεις κώδικα - Gamatomovies
        Διορθώσεις αναζήτησης Gamatomovies
-    - [B][COLOR lime]v20.19[/COLOR][/B] 27/07/2023 * Εκρήξεις Πυρομαχικών Ν.Αγχιάλου *
+    - [B][COLOR lime]v20.19[/COLOR][/B] 27/07/2023
        Διορθώσεις κώδικα - Xrysoi
        Διορθώσεις αναζήτησης Xrysoi
     - [B][COLOR lime]v20.18[/COLOR][/B] 17/07/2023
@@ -160,7 +160,7 @@
        Διορθώσεις κώδικα - Gamato
     - [B][COLOR lime]v20.2a[/COLOR][/B] 12/03/2023
        Διορθώσεις κώδικα - Gamato
-    - [B][COLOR lime]v20.1[/COLOR][/B] 07/03/2023 * Αντίο Θείε! *
+    - [B][COLOR lime]v20.1[/COLOR][/B] 07/03/2023
        Διορθώσεις κώδικα - Gamato
        Διόρθωση αναζήτησης
        Προσθήκη κατηγορίας Ασιατικές Ταινίες
